@@ -1,3 +1,7 @@
+# Nodejs Gmail API
+
+Node.js based app that is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation.
+
 ## Appendix
 
 1. Check for new emails in a given Gmail ID.
