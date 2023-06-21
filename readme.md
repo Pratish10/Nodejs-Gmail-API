@@ -27,7 +27,7 @@ Place your CLIENT_ID and CLIENT_SECRET in the `.env` file respectively.
     REDIRECT_URI=https://developers.google.com/oauthplayground
 ```
 
-Copy and paste the json data which generated in `REDIRECT_URI` in the file token.json
+Copy and paste the json data which generated in `https://developers.google.com/oauthplayground` to authorise your app in the file token.json
 
 token.json
 
